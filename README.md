@@ -1,10 +1,9 @@
-### Hi there 👋, ###I'm Sadman Ichha.
+### Hi there 👋,I'm Sadman Ichha.
 #### Mobile Application Developer
 I am a Flutter Developer. I really love to convert creative ideas to application.
 
 Skills: DART / FLUTTER / PYTHON / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Flutter Architecture With MVVM 
 - 👯 I’m looking to collaborate on Android apps development Projects 
 - 💬 Ask me about Dart & Flutter 
